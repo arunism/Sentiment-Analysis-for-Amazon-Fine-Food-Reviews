@@ -2,7 +2,7 @@
 
 ### What is Amazon Fine Food Reviews Dataset?
 
-Amazon Fine Food Reviews is the dataset is the collection of food reviews from Amazon.
+Amazon Fine Food Reviews Dataset is the collection of food reviews from Amazon.
 
 ##### It consists of the following:
 
