@@ -24,5 +24,7 @@ Amazon Fine Food Reviews is the dataset is the collection of food reviews from A
     * Time - Timestamp for the Review
     * Summary - Brief Summary of the Review
     * Text - Description of the Review
+<<<<<<< HEAD
 
 ##### You can Download the Dataset from: https://www.kaggle.com/snap/amazon-fine-food-reviews
+
